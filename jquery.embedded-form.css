@@ -1,0 +1,20 @@
+.embedded-form .embedded-form-row {
+    margin-bottom: 20px;
+}
+
+.embedded-form .embedded-form-row-delete {
+    text-align: right;
+}
+
+.embedded-form-striped .embedded-form-row {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.embedded-form-striped .embedded-form-row:nth-child(even) {
+    background: #f5f5f5;
+}
+
+.embedded-form-striped .embedded-form-row:nth-child(odd) {
+    background: #fff;
+}
